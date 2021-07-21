@@ -1,0 +1,36 @@
+img {
+  width: 200px;
+}
+
+.small-image {
+  width: 40%;
+}
+
+#firstParagraph {
+  color: green;
+}
+
+.green {
+  background-color: green;
+}
+
+.one {
+  width: 200px;
+  margin: 24px auto;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  background-color: blue;
+}
+
+.two {
+  background-color: grey;
+}
+
+.wrap {
+  display: inline-block;
+}
+
+.title {
+  font-size: 100px;
+}
